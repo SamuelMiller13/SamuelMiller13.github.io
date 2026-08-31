@@ -18,7 +18,7 @@ gallery:
 For our Rapid Prototyping capstone project, my team designed and built a fully functional syringe pump from the ground up — mechanical housing, electronics, and firmware all engineered in-house. The pump uses a NEMA 17 stepper motor driving a lead screw to precisely actuate a syringe plunger, delivering fluid at flow rates adjustable in 0.1 mL/min increments via a potentiometer, with real-time feedback on an LCD display.
 {% include gallery caption="" %}
 # The design operates as described below:
-The red center button: Acts as a power switch, turning the pump on and off.  
-The red outter buttons: Both left and right button's rotate the lead screw, driving the carriage fowards/backwards respectively.  
-The dial potentiometer: Acts as a speed variable dial, allowing the user to increase/decrease flow rate.  
+__The red center button:__ Acts as a power switch, turning the pump on and off.  
+__The red outter buttons:__ Both left and right button's rotate the lead screw, driving the carriage fowards/backwards respectively.  
+__The dial potentiometer:__ Acts as a speed variable dial, allowing the user to increase/decrease flow rate.  
 
