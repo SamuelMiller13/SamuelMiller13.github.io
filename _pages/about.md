@@ -17,4 +17,4 @@ Sam has experience with a range of CAD, fabrication, and instrumentation tools t
 * Graphic Design: Adobe Photoshop, Adobe Illustrator, Canva
 
 
-<img src="assets/img/PortraitAIEnhanced.png" alt="David Florian" style="width:200px;"/>
+<img src="assets/img/PortraitAIEnhanced.png" alt="Samuel Miller" style="width:200px;"/>
