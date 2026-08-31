@@ -23,6 +23,7 @@ __The red outter buttons:__ Both left and right button's rotate the lead screw, 
 __The dial potentiometer:__ Acts as a speed variable dial, allowing the user to increase/decrease flow rate.  
 
 ## Off-the-Shelf Parts
+
 | Part Name | Category |
 |---|---|
 | NEMA-17 Motor | Motor |
@@ -53,6 +54,7 @@ __The dial potentiometer:__ Acts as a speed variable dial, allowing the user to 
 | Syringe (10 mL) | Consumable |
 
 ## 3D Printed Parts
+
 | Part Name | Function |
 |---|---|
 | Housing Base | Main enclosure base |
