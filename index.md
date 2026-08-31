@@ -14,13 +14,6 @@ feature_row:
     alt: "Custom Syringe Pump"
     title: "Custom Syringe Pump"
     excerpt: "Built for dispensing precise amounts of liquid."
-  - image_path: assets/img/Plasma-Cutter-Banner.jpg
-    alt: "placeholder image 2"
-    title: "DIY Plasma Cutter"
-    excerpt: "A hot plasma stream slices through sheet metal."
-  - image_path: assets/img/Zidex-Thumbnail.jpg
-    title: "Bespoke IDEX 3D Printer"
-    excerpt: "Multimaterial printing. "
 ---
 
 {% include feature_row %}
