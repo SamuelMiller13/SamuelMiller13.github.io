@@ -84,7 +84,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://www.instagram.com/dr.dflo"
+    - "https://www.instagram.com/onlysammiller"
 
 # Analytics
 analytics:
@@ -108,7 +108,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/onlysammiller"
     - label: "LinkedIn"
-      icon: "fa-linkedin-square"
+      icon: "fa-brands fa-square-linkedin"
       url: "https://www.linkedin.com/in/samuel-miller-645b0234b/"
 
 # Site Footer
