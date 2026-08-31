@@ -16,6 +16,4 @@ Sam has experience with a range of CAD, fabrication, and instrumentation tools t
 * Programming & Instrumentation: LabVIEW, Arduino C++, Java
 * Graphic Design: Adobe Photoshop, Adobe Illustrator, Canva
 
-
-<img src="assets/img/Plasma-Cutter-Banner.jpg" alt="Samuel Miller" style="width:200px;"/>
-![Samuel Miller](../assets/img/Plasma-Cutter-Banner.jpg)
+![Samuel Miller](../assets/img/PortraitAIEnhanced.png)
