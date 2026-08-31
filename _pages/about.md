@@ -18,4 +18,4 @@ Sam has experience with a range of CAD, fabrication, and instrumentation tools t
 
 
 <img src="assets/img/Plasma-Cutter-Banner.jpg" alt="Samuel Miller" style="width:200px;"/>
-![Samuel Miller](assets/img/PortraitAIEnhanced.png)
+![Samuel Miller](assets/img/Plasma-Cutter-Banner.jpg)
