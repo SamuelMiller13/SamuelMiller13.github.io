@@ -1,5 +1,5 @@
 ---
-title: "Example Web Page"
+title: "Mechanical Design & Fabrication"
 layout: splash
 header:
   overlay_color: "#000"
@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Dr. David Florian is an engineer with a passion for teaching and the open-source community. His area of expertise is 3D printing, with an emphasis on large format pellet extrusion and selective laser sintering."
+excerpt: "Samuel Miller is a mechanical engineering student with a passion for hands-on design and digital fabrication. His interests center on rapid prototyping and additive manufacturing, with experience spanning CAD modeling, 3D printing, and instrumented mechanical systems."
 feature_row:
   - image_path: assets/img/CNC-Mill-Thumbnail.jpg
     alt: "CNC Mill"
