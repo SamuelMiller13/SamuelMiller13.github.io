@@ -2,14 +2,14 @@
 title: "Syringe Pump"
 excerpt: "This custom DIY syringe pump is capable of dispensing as little as 1uL/min of liquid, as well as up to 10mL/min."
 header:
-  image: /assets/img/Cyber-Scooter-Banner.jpg
-  teaser: /assets/img/Cyber-Scooter-TH.jpg
+  image: ../assets/img/Syringe Pump Assembly Render.png
+  teaser: ../assets/img/syringepumpphoto.jpg
 gallery:
   - url: ../assets/img/Syringe Pump Assembly Render.png
     image_path: ../assets/img/Syringe Pump Assembly Render.png
     alt: "placeholder image 1"
-  - url: /assets/img/Cyber-Scooter-2.jpg
-    image_path: assets/img/Cyber-Scooter-2.jpg
+  - url: ../assets/img/syringepumpphoto.jpg
+    image_path: ../assets/img/syringepumpphoto.jpg
     alt: "placeholder image 2"
   - url: /assets/img/Cyber-Scooter-3.jpg
     image_path: assets/img/Cyber-Scooter-3.jpg
