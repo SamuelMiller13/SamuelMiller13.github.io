@@ -11,10 +11,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "David Florian"
+title                    : "Samuel Miller"
 title_separator          : "-"
 subtitle                 : "Example Website for Class"
-name                     : &name "David Florian" # &name is a YAML anchor which can be *referenced later
+name                     : &name "Samuel Miller" # &name is a YAML anchor which can be *referenced later
 description              : &description "Example website for class "
 url                      : https://davidflorianjr.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -98,15 +98,15 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "assets/img/David_Headshot_web2.jpg"
-  bio              : "An engineer with a passion for teaching "
-  location         : "Nashville, TN"
+  bio              : "Mechanical Engineering Student at Vanderbilt University "
+  location         : "Denver, CO"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/DrD-Flo"
+      url: "https://github.com/samuelmiller13"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/dr.dflo"
+      url: "https://www.instagram.com/onlysammiller"
 
 
 # Site Footer
