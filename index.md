@@ -10,10 +10,10 @@ header:
       url: "/portfolio/"
 excerpt: "Samuel Miller is a mechanical engineering student with a passion for hands-on design and digital fabrication. His interests center on rapid prototyping and additive manufacturing, with experience spanning CAD modeling, 3D printing, and instrumented mechanical systems."
 feature_row:
-  - image_path: assets/img/CNC-Mill-Thumbnail.jpg
-    alt: "CNC Mill"
-    title: "Custom CNC Milling Machine"
-    excerpt: "Built for fabricating aluminum and steel parts."
+  - image_path: ../assets/img/syringepumpphoto.jpg
+    alt: "Custom Syringe Pump"
+    title: "Custom Syringe Pump"
+    excerpt: "Built for dispensing precise amounts of liquid."
   - image_path: assets/img/Plasma-Cutter-Banner.jpg
     alt: "placeholder image 2"
     title: "DIY Plasma Cutter"
