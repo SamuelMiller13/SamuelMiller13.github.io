@@ -22,3 +22,44 @@ __The red center button:__ Acts as a power switch, turning the pump on and off.
 __The red outter buttons:__ Both left and right button's rotate the lead screw, driving the carriage fowards/backwards respectively.  
 __The dial potentiometer:__ Acts as a speed variable dial, allowing the user to increase/decrease flow rate.  
 
+## Off-the-Shelf Parts
+| Part Name | Category |
+|---|---|
+| NEMA-17 Motor | Motor |
+| Lead-Screw TR8x8x250mm | Motion |
+| Nut-TR8x8-4 | Motion |
+| LM8UU Linear Bearing | Motion |
+| Linear-Rod 8mm x 200mm | Motion |
+| F688ZZ Flanged Ball Bearing | Motion |
+| Flexible Coupler | Motion |
+| Lock-Collar-Linear-Rod | Motion |
+| Lock-Collar-Lead-Screw | Motion |
+| V-Slot 20x40x350 | Frame/Extrusion |
+| Complete Limit Switch | Electronics |
+| LCD16x2 Display | Electronics |
+| LED | Electronics |
+| Momentary Pushbutton | Electronics |
+| Push Button 12mm | Electronics |
+| Potentiometer | Electronics |
+| 91290A117 Alloy Steel Socket Screw | Fastener |
+| 91290A113 Alloy Steel Socket Screw | Fastener |
+| 90128A244 Zinc-Plated Alloy Screw | Fastener |
+| M3x8 Thread-Forming Screw | Fastener |
+| M3x10mm Bolt | Fastener |
+| Bolt + T-Nut | Fastener |
+| 94459A180 Heat-Set Insert | Fastener |
+| 94459A769 Heat-Set Insert | Fastener |
+| Momentary Button Nut | Fastener |
+| Syringe (10 mL) | Consumable |
+
+## 3D Printed Parts
+| Part Name | Function |
+|---|---|
+| Housing Base | Main enclosure base |
+| Housing Lid (Updated) | Enclosure lid, mounts LCD/electronics |
+| Motor-Mounting | Secures NEMA-17 motor to frame |
+| End Support | Supports lead screw/rod end |
+| End Support Holding Syringe | Holds syringe flange in place |
+| Carriage | Mounts to lead screw, drives plunger |
+| Clamp for Carriage | Secures syringe plunger head to carriage |
+
