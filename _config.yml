@@ -108,7 +108,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/onlysammiller"
     - label: "LinkedIn"
-      icon: "fa-brands fa-square-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/samuel-miller-645b0234b/"
 
 # Site Footer
@@ -121,7 +121,7 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/onlysammiller"
     - label: "LinkedIn"
-      icon: "fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/samuel-miller-645b0234b/"
 
 # Reading Files
