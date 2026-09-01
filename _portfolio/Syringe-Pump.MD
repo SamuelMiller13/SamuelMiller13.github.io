@@ -22,6 +22,9 @@ __The red center button:__ Acts as a power switch, turning the pump on and off.
 __The red outter buttons:__ Both left and right button's rotate the lead screw, driving the carriage fowards/backwards respectively.  
 __The dial potentiometer:__ Acts as a speed variable dial, allowing the user to increase/decrease flow rate.  
 
+## Fusion Model
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811ca2115866303006e?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
 ## Off-the-Shelf Parts
 
 | Part Name | Category |
