@@ -25,6 +25,8 @@ __The dial potentiometer:__ Acts as a speed variable dial, allowing the user to 
 ## Fusion Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811ca2115866303006e?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
+[View Arduino Source Code](https://github.com/SamuelMiller13/SamuelMiller13.github.io/blob/main/SyringePump.ino)
+
 ## Off-the-Shelf Parts
 
 | Part Name | Category |
