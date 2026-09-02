@@ -2,11 +2,11 @@
 title: "Syringe Pump"
 excerpt: "This custom DIY syringe pump is capable of dispensing as little as 1uL/min of liquid, as well as up to 10mL/min."
 header:
-  image: ../assets/img/Syringe Pump Assembly Render.png
+  image: ../assets/img/Syringe Pump Render Light Blue.png
   teaser: ../assets/img/syringepumpphoto.jpg
 gallery:
-  - url: ../assets/img/Syringe Pump Assembly Render.png
-    image_path: ../assets/img/Syringe Pump Assembly Render.png
+  - url: ../assets/img/Syringe Pump Render Light Blue.png
+    image_path: ../assets/img/Syringe Pump Render Light Blue.png
     alt: "placeholder image 1"
   - url: ../assets/img/syringepumpphoto.jpg
     image_path: ../assets/img/syringepumpphoto.jpg
