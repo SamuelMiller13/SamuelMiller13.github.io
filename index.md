@@ -2,7 +2,7 @@
 title: "Mechanical Design & Fabrication"
 layout: splash
 header:
-  overlay_color: "#00ff"
+  overlay_color: "#008080"
   overlay_filter: "1.0"
   overlay_image: /assets/img/Home-Banner-Image.jpeg
   actions:
