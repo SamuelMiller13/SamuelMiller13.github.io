@@ -2,8 +2,8 @@
 title: "Mechanical Design & Fabrication"
 layout: splash
 header:
-  overlay_color: "#008080"
-  overlay_filter: "rgba(0, 128, 128, 1.0)"
+  overlay_color: "#C2D2ED"
+ overlay_filter: "rgba(194, 210, 237, 1.0)"
   overlay_image: /assets/img/Home-Banner-Image.jpeg
   actions:
     - label: "My Projects"
