@@ -1,6 +1,6 @@
 ---
 title: "Multi-Material Pliers"
-excerpt: "These pliers made from PLA and TPU are rigid, precise, and great at picking things up?"
+excerpt: "These pliers made from PLA and TPU are rigid, precise, and great at picking things up!"
 header:
   image: ../assets/img/Syringe Pump Render Light Blue.png
   teaser: ../assets/img/Pliers-Angle.jpeg
@@ -15,7 +15,13 @@ gallery:
 
 ---
 
-For our Rapid Prototyping capstone project, my team designed and built a fully functional syringe pump from the ground up — mechanical housing, electronics, and firmware all engineered in-house. The pump uses a NEMA 17 stepper motor driving a lead screw to precisely actuate a syringe plunger, delivering fluid at flow rates adjustable in 0.1 mL/min increments via a potentiometer, with real-time feedback on an LCD display.
+__Project Description__
+
+For our Additive and Polymer-Based Manufacturing class project, I designed and built a set of fully functional print-in-place pliers that use a TPU leaf spring to control opening and closing, requiring no post-print assembly. The pliers' rigid handles and jaws are printed in PLA, while a flexible TPU leaf spring is printed directly into the pivot joint in the same build, providing the return force that automatically reopens the jaws after each squeeze. Because the spring element is generated in place rather than fastened on afterward, the design eliminates a separate metal spring, fastener, or manual assembly step entirely.
+
+__Print-in-Place Design__
+
+Print-in-place is an FDM design approach where a mechanism's moving parts — hinges, joints, springs, or linkages — are printed pre-assembled directly on the build plate, using small calibrated gaps (or, in multi-material designs, different filaments at the interface) so the parts can move relative to each other the moment printing finishes. It removes the labor, tolerancing, and failure points that come with post-print assembly, at the cost of requiring careful control over layer height, clearance, and cooling to keep moving surfaces from fusing together.
 {% include gallery caption="" %}
 # The design operates as described below:
 __The red center button:__ Acts as a power switch, turning the pump on and off.  
