@@ -23,55 +23,21 @@ __Print-in-Place Design__
 
 Print-in-place is an FDM design approach where a mechanism's moving parts — hinges, joints, springs, or linkages — are printed pre-assembled directly on the build plate, using small calibrated gaps (or, in multi-material designs, different filaments at the interface) so the parts can move relative to each other the moment printing finishes. It removes the labor, tolerancing, and failure points that come with post-print assembly, at the cost of requiring careful control over layer height, clearance, and cooling to keep moving surfaces from fusing together.
 {% include gallery caption="" %}
-# The design operates as described below:
-__The red center button:__ Acts as a power switch, turning the pump on and off.  
-__The red outter buttons:__ Both left and right button's rotate the lead screw, driving the carriage fowards/backwards respectively.  
-__The dial potentiometer:__ Acts as a speed variable dial, allowing the user to increase/decrease flow rate.  
+# The design specs are described below:
+__Jaw Length:__ 
+__Jaw Width:__ 
+
 
 ## Fusion Model
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811ca2115866303006e?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b6028115263c5295bb9713a?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-[View Arduino Source Code](https://github.com/SamuelMiller13/SamuelMiller13.github.io/blob/main/SyringePump.ino)
-
-## Off-the-Shelf Parts
-
-| Part Name | Category |
-|---|---|
-| NEMA-17 Motor | Motor |
-| Lead-Screw TR8x8x250mm | Motion |
-| Nut-TR8x8-4 | Motion |
-| LM8UU Linear Bearing | Motion |
-| Linear-Rod 8mm x 200mm | Motion |
-| F688ZZ Flanged Ball Bearing | Motion |
-| Flexible Coupler | Motion |
-| Lock-Collar-Linear-Rod | Motion |
-| Lock-Collar-Lead-Screw | Motion |
-| V-Slot 20x40x350 | Frame/Extrusion |
-| Complete Limit Switch | Electronics |
-| LCD16x2 Display | Electronics |
-| LED | Electronics |
-| Momentary Pushbutton | Electronics |
-| Push Button 12mm | Electronics |
-| Potentiometer | Electronics |
-| 91290A117 Alloy Steel Socket Screw | Fastener |
-| 91290A113 Alloy Steel Socket Screw | Fastener |
-| 90128A244 Zinc-Plated Alloy Screw | Fastener |
-| M3x8 Thread-Forming Screw | Fastener |
-| M3x10mm Bolt | Fastener |
-| Bolt + T-Nut | Fastener |
-| 94459A180 Heat-Set Insert | Fastener |
-| 94459A769 Heat-Set Insert | Fastener |
-| Momentary Button Nut | Fastener |
-| Syringe (10 mL) | Consumable |
 
 ## 3D Printed Parts
 
-| Part Name | Function |
+| Part Name | Material |
 |---|---|
-| Housing Base | Main enclosure base |
-| Housing Lid (Updated) | Enclosure lid, mounts LCD/electronics |
-| Motor-Mounting | Secures NEMA-17 motor to frame |
-| End Support | Supports lead screw/rod end |
-| End Support Holding Syringe | Holds syringe flange in place |
-| Carriage | Mounts to lead screw, drives plunger |
-| Clamp for Carriage | Secures syringe plunger head to carriage |
+| Leaf-Spring | TPU |
+| Plier-Arm-Female | PLA |
+| Plier-Arm-Male | PLA |
+| Lock-Key | PLA |
+
