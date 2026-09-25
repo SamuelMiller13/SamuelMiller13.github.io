@@ -6,7 +6,7 @@ header:
   teaser: ../assets/img/Pliers-Angle.jpeg
 gallery:
   - url: ../assets/img/Syringe Pump Render Light Blue.png
-    image_path: ../assets/img/Syringe Pump Render Light Blue.png
+    image_path: ../assets/img/Pliers-Angle.jpeg
     alt: "placeholder image 1"
   - url: ../assets/img/syringepumpphoto.jpg
     image_path: ../assets/img/Pliers-Overhead.jpeg
