@@ -2,13 +2,13 @@
 title: "Multi-Material Pliers"
 excerpt: "These pliers made from PLA and TPU are rigid, precise, and great at picking things up!"
 header:
-  image: ../assets/img/Syringe Pump Render Light Blue.png
+  image: ../assets/img/Pliers-Banner.png
   teaser: ../assets/img/Pliers-Angle.jpeg
 gallery:
-  - url: ../assets/img/Syringe Pump Render Light Blue.png
+  - url: ../assets/img/Pliers-Banner.png
     image_path: ../assets/img/Pliers-Angle.jpeg
     alt: "placeholder image 1"
-  - url: ../assets/img/syringepumpphoto.jpg
+  - url: ../assets/img/Pliers-Angle.jpeg
     image_path: ../assets/img/Pliers-Overhead.jpeg
     alt: "placeholder image 2"
 
