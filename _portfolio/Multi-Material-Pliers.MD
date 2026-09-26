@@ -24,9 +24,9 @@ __Print-in-Place Design__
 Print-in-place is an FDM design approach where a mechanism's moving parts — hinges, joints, springs, or linkages — are printed pre-assembled directly on the build plate, using small calibrated gaps (or, in multi-material designs, different filaments at the interface) so the parts can move relative to each other the moment printing finishes. It removes the labor, tolerancing, and failure points that come with post-print assembly, at the cost of requiring careful control over layer height, clearance, and cooling to keep moving surfaces from fusing together.
 {% include gallery caption="" %}
 # The design specs are described below:
-__Jaw Length:__ 
+__Jaw Length:__ 10mm
 
-__Jaw Width:__ 
+__Jaw Width:__ 18mm
 
 ## 3D Printed Parts
 
