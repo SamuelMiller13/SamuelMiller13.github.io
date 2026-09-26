@@ -65,4 +65,13 @@ The first prototype confirmed that the print-in-place hinge and TPU leaf spring 
 - **Pivot Clearance** — The joint gap was too loose and weak (it ended up shearing off with mild use). In addition, the jaws were misaligning with eachother. This led me to increase the diameter of the pivot cylinder, raise its prominence, and add a slot for a locking key to slide into. This locked the jaws to move in perfect plane with no deviation for accurate gripping.
 - **Handle geometry** — Initially, the handles were way too far apart and too bulky. This lack of engonomic feel made the pliers clunky and difficult to operate. To fix this, the fillets on the handles were increased and the disance between handles was decreased.
 
+---
+
+## GIF of Pliers In Operation
+
+../assets/img/IMG_3859 (1).gif
+
+
+
+
 
