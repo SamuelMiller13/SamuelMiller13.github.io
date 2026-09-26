@@ -39,9 +39,9 @@ __Jaw Width:__
 
 The first prototype confirmed that the print-in-place hinge and TPU leaf spring could be printed as a single piece without fusing, but it also showed a few issues I wanted to address in the next revision:
 
-- **[spring stiffness]** — the jaws [didn't fully close / snapped back too aggressively], so I planned to adjust the TPU leaf spring's thickness and length to tune the return force.
-- **[pivot clearance]** — the joint gap was [too tight and bound up / too loose and had play], so the next version needed a revised clearance tolerance.
-- **[jaw geometry]** — [describe fit/grip issue], which meant reshaping the jaw profile.
+- **[Spring Stiffness]** — The first spring didn't have the responsiveness that I was looking for so in the next iteration, I decided to increase the springs thickness from 3mm to 5mm to increase resistance.
+- **[Pivot Clearance]** — The joint gap was too loose and weak (it ended up shearing off with mild use). In addition, the jaws were misaligning with eachother. This led me to increase the diameter of the pivot cylinder, raise its prominence, and add a slot for a locking key to slide into. This locked the jaws to move in perfect plane with no deviation for accuracte gripping.
+- **[Handle geometry]** — Initially, the handles were way too far apart and too bulky. This lack of engonomic feel made the pliers clunky and difficult to operate. To fix this, the fillets on the handles were increased and the disance between handles was decreased.
 
 ## 3D Printed Parts
 
