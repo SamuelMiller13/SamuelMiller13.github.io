@@ -28,6 +28,26 @@ __Jaw Length:__
 
 __Jaw Width:__ 
 
+## 3D Printed Parts
+
+| Part Name | Material |
+|---|---|
+| Leaf-Spring | TPU |
+| Plier-Arm-Female | PLA |
+| Plier-Arm-Male | PLA |
+| Lock-Key | PLA |
+
+## Print Settings
+
+| Setting | Value | Why it matters |
+|---|---|---|
+| Nozzle diameter (PLA) | 0.4 mm | Standard nozzle for fine detail on the rigid jaw/handle geometry |
+| Nozzle diameter (TPU) | 0.6 mm | Larger nozzle reduces the pressure and friction needed to extrude flexible filament, cutting down on jams/stringing |
+| Nozzle temp (PLA) | 200°C | Lower temp reduces risk of fusing at the PLA/TPU interface |
+| Nozzle temp (TPU) | 230°C | TPU generally needs higher temp than PLA |
+| Print speed | 100% | Slicer's default/full-speed setting used throughout the print |
+| Infill | 15% | Balances rigidity vs. weight in PLA sections |
+| Supports | Snug | Provides just enough support at the joint/overhang without adding material that would fuse the print-in-place mechanism shut |
 
 ## Fusion Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b6028115263c5295bb9713a?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
@@ -43,22 +63,4 @@ The first prototype confirmed that the print-in-place hinge and TPU leaf spring 
 - **Pivot Clearance** — The joint gap was too loose and weak (it ended up shearing off with mild use). In addition, the jaws were misaligning with eachother. This led me to increase the diameter of the pivot cylinder, raise its prominence, and add a slot for a locking key to slide into. This locked the jaws to move in perfect plane with no deviation for accurate gripping.
 - **Handle geometry** — Initially, the handles were way too far apart and too bulky. This lack of engonomic feel made the pliers clunky and difficult to operate. To fix this, the fillets on the handles were increased and the disance between handles was decreased.
 
-| Setting | Value | Why it matters |
-|---|---|---|
-| Nozzle diameter (PLA) | 0.4 mm | Standard nozzle for fine detail on the rigid jaw/handle geometry |
-| Nozzle diameter (TPU) | 0.6 mm | Larger nozzle reduces the pressure and friction needed to extrude flexible filament, cutting down on jams/stringing |
-| Nozzle temp (PLA) | 200°C | Lower temp reduces risk of fusing at the PLA/TPU interface |
-| Nozzle temp (TPU) | 230°C | TPU generally needs higher temp than PLA |
-| Print speed | 100% | Slicer's default/full-speed setting used throughout the print |
-| Infill | 15% | Balances rigidity vs. weight in PLA sections |
-| Supports | Snug | Provides just enough support at the joint/overhang without adding material that would fuse the print-in-place mechanism shut |
-
-## 3D Printed Parts
-
-| Part Name | Material |
-|---|---|
-| Leaf-Spring | TPU |
-| Plier-Arm-Female | PLA |
-| Plier-Arm-Male | PLA |
-| Lock-Key | PLA |
 
