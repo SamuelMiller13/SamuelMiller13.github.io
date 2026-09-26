@@ -54,6 +54,8 @@ __Jaw Width:__
 
 ---
 
+## First Prototype
+
 ![First prototype of the print-in-place pliers](/assets/img/processed-4FB37C23-B030-4F64-A4B2-8C2A911B6702.jpeg)
 {: .align-center caption="First prototype"}
 
