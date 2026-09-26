@@ -3,7 +3,7 @@ title: "Multi-Material Pliers"
 excerpt: "These pliers made from PLA and TPU are rigid, precise, and great at picking things up!"
 header:
   image: ../assets/img/Pliers-Banner.png
-  teaser: ../assets/img/Pliers-Angle.jpeg
+  teaser: ../assets/img/Pliers-Banner.png
 gallery:
   - url: ../assets/img/Pliers-Banner.png
     image_path: ../assets/img/Pliers-Angle.jpeg
