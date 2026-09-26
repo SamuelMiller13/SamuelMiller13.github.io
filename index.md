@@ -14,6 +14,10 @@ feature_row:
     alt: "Custom Syringe Pump"
     title: "Custom Syringe Pump"
     excerpt: "Built for dispensing precise amounts of liquid."
+  - image_path: ../assets/img/Pliers-Angle.jpeg
+    alt: "Multi-Material Pliers"
+    title: "Multi-Material Pliers"
+    excerpt: "Built for precise gripping capabilities with a clean, responsive feel"
 ---
 
 {% include feature_row %}
