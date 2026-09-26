@@ -32,17 +32,14 @@ __Jaw Width:__
 ## Fusion Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b6028115263c5295bb9713a?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-![First prototype of the print-in-place pliers]
-../assets/img/processed-4FB37C23-B030-4F64-A4B2-8C2A911B6702.jpeg
-*First prototype*
+![First prototype of the print-in-place pliers](/assets/img/processed-4FB37C23-B030-4F64-A4B2-8C2A911B6702.jpeg)
+{: .align-center caption="First prototype"}
 
 The first prototype confirmed that the print-in-place hinge and TPU leaf spring could be printed as a single piece without fusing, but it also showed a few issues I wanted to address in the next revision:
 
-- **[e.g., spring was too stiff/too weak]** — the jaws [didn't fully close / snapped back too aggressively], so I planned to adjust the TPU leaf spring's thickness and length to tune the return force.
-- **[e.g., pivot clearance]** — the joint gap was [too tight and bound up / too loose and had play], so the next version needed a revised clearance tolerance.
-- **[e.g., jaw geometry]** — [describe fit/grip issue], which meant reshaping the jaw profile.
-
-Update those bracketed points with what actually happened on your first print — happy to help you word the specifics once you tell me what went wrong.
+- **[spring stiffness]** — the jaws [didn't fully close / snapped back too aggressively], so I planned to adjust the TPU leaf spring's thickness and length to tune the return force.
+- **[pivot clearance]** — the joint gap was [too tight and bound up / too loose and had play], so the next version needed a revised clearance tolerance.
+- **[jaw geometry]** — [describe fit/grip issue], which meant reshaping the jaw profile.
 
 ## 3D Printed Parts
 
