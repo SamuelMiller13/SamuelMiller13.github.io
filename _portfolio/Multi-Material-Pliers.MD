@@ -32,7 +32,7 @@ __Jaw Width:__
 ## Fusion Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b6028115263c5295bb9713a?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-![First prototype of the print-in-place pliers](/assets/img/processed-4FB37C23-B030-4F64-A4B2-8C2A911B6702.jpeg)
+![First prototype of the print-in-place pliers](../assets/img/processed-4FB37C23-B030-4F64-A4B2-8C2A911B6702.jpeg)
 {: .align-center caption="First prototype"}
 
 The first prototype confirmed that the print-in-place hinge and TPU leaf spring could be printed as a single piece without fusing, but it also showed a few issues I wanted to address in the next revision:
