@@ -69,7 +69,9 @@ The first prototype confirmed that the print-in-place hinge and TPU leaf spring 
 
 ## GIF of Pliers In Operation
 
-../assets/img/IMG_3859 (1).gif
+![First prototype of the print-in-place pliers](/assets/img/IMG_3859 (1).gif)
+{: .align-center caption=""}
+
 
 
 
