@@ -1,8 +1,19 @@
 
 ---
-layout: page
-title: "Enhanced Pinched Flow Fractionation Microfluidic Device"
-description: "Design and fabrication of a resin-printed microfluidic device for passive particle-size separation."
+title: "Multi-Material Pliers"
+excerpt: "This device is was made from PDMS in a clear VPP resin mold."
+header:
+  image: ../assets/img/Pliers-Banner.png
+  teaser: ../assets/img/Pliers-Banner.png
+gallery:
+  - url: ../assets/img/Pliers-Banner.png
+    image_path: ../assets/img/Pliers-Angle.jpeg
+    alt: "placeholder image 1"
+  - url: ../assets/img/Pliers-Angle.jpeg
+    image_path: ../assets/img/Pliers-Overhead.jpeg
+    alt: "placeholder image 2"
+
+
 ---
 
 # Enhanced Pinched Flow Fractionation (EPFF) Microfluidic Device
