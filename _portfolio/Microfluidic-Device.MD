@@ -1,4 +1,3 @@
-
 ---
 title: "Multi-Material Pliers"
 excerpt: "This device is was made from PDMS in a clear VPP resin mold."
