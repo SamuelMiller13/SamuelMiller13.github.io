@@ -1,5 +1,5 @@
 ---
-title: "Multi-Material Pliers"
+title: "Microfluidic Device"
 excerpt: "This device is was made from PDMS in a clear VPP resin mold."
 header:
   image: ../assets/img/Pliers-Banner.png
